@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://brf978t8cb-lgtm.github.io/stroy-dom-tula/sitemap.xml
